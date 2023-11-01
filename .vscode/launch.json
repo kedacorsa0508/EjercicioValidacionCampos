@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "EquipoMaratonProgramacion",
+            "request": "launch",
+            "mainClass": "EquipoMaratonProgramacion",
+            "projectName": "codingrooms-project (2)_dc4219f9"
+        },
+        {
+            "type": "java",
+            "name": "Launch EquipoMaratónProgramación",
+            "request": "launch",
+            "mainClass": "EquipoMaratónProgramación",
+            "projectName": "usercode_28b51d67"
+        },
+        {
+            "type": "java",
+            "request": "launch",
+            "vmArgs": "--module-path /usr/lib/javafx-sdk-16/lib --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}
